@@ -1,1 +1,1 @@
-print('Hello from main!')
+print('Now or never')
