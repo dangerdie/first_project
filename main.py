@@ -1,1 +1,1 @@
-print('Now or never')
+print('Try to study')
