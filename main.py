@@ -1,1 +1,1 @@
-print('Try to study')
+print('Think of god')
